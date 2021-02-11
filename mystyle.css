@@ -1,6 +1,6 @@
 body {
     background-color: #74992e;
-    font-family: cursive;
+    font: italic 1.2em "Fira Sans", serif;
 }
 
 p {
