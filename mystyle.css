@@ -4,11 +4,11 @@ body {
 }
 
 p {
-    color: #2B2D42;
+    color: #00ff00;
 }
 
 h1 {
-    color: #D80032;
+    color: rebeccapurple;
     border-bottom: 1px solid #8D99AE;
     font-family: "Trebuchet MS", Verdana, sans-serif;
 }
